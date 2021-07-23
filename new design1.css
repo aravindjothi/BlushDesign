@@ -1,0 +1,85 @@
+h1 {
+	font-family: 'Mrs Sheppards';
+	letter-spacing: 1px;
+}
+
+ul,li {
+	padding-left: 75px;
+	font-size: 17px;
+}
+
+.p1 {
+	font-family: 'Arial';
+	font-size:14px;
+	letter-spacing: 1px;
+	position: absolute;
+	top: 52px;
+	left: 0;
+	right: 0;
+}
+
+.p2 {
+	font-family: 'Alice';
+	font-size: 8px;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+
+.p3 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 22px;
+}
+
+.f1 {
+	font-family: 'Kalam', cursive;
+}
+
+.f2,.f3,.f4,.f5,.f6,.f7,.f8 {
+	font-family: 'Yomogi';
+}
+
+.f9 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 30px;
+}
+
+.f10,.f11,.f12 {
+	font-family: 'Acme', sans-serif;
+	font-size: 30px;
+}
+
+.f13 {
+	font-family: 'Ruslan Display', cursive;
+	font-size: 50px;
+}
+
+.f14,.f15,.f16,.f17 {
+	font-family: 'Neucha', cursive;
+	width: 100%;
+}
+
+.i1 {
+	width: 90%;
+}
+
+.i2 {
+	width: 20%;
+}
+
+.i3 {
+	width: 100%;
+}
+
+.i4 {
+	width: 87%;
+	left: 0;
+	right: 0;
+}
+
+.i5 {
+	width: 92%;
+}
+
+
+	
